@@ -102,5 +102,5 @@ typing-extensions==4.1.1
     # via
     #   importlib-metadata
     #   mypy
-zipp==3.6.0
+zipp==3.19.1
     # via importlib-metadata
